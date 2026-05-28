@@ -68,13 +68,14 @@ This GitHub profile showcases my projects, technical skills, and learning journe
 
 # 🏆 Projects
 
-## ⚡ EnergyDB2 – Global Energy Consumption Analysis
+## ❤️ Heart Disease Prediction using Machine Learning
 
-* Performed SQL-based analysis on global energy production, consumption, GDP, emissions, and population datasets.
-* Designed complex analytical queries for trends, ratios, comparisons, and correlation insights.
-* Built using MySQL and CSV datasets.
+- Developed a Machine Learning model to predict heart disease using patient medical data.
+- Performed data preprocessing, feature engineering, and feature scaling for improved model performance.
+- Implemented classification algorithms using Python and Scikit-learn.
+- Evaluated model accuracy and visualized insights using data analysis techniques.
 
-🔗 Project Link
+🔗 Project Link: [https://github.com/islavathgowtham/heart-disease-prediction-ML]
 
 ---
 
@@ -83,25 +84,18 @@ This GitHub profile showcases my projects, technical skills, and learning journe
 * Developed an interactive Power BI dashboard for state-wise and constituency-level election analysis.
 * Implemented alliance tracking, seat distribution, and interactive visualizations using DAX and Power BI.
 
-🔗 Project Link
+🔗 Project Link: [https://github.com/islavathgowtham/India-General-Election-2024-Dashboard]
 
 ---
 
-## 🖥️ Incident Management System
+## 🌍 World Wide Energy Consumption Analysis
 
-* Developed a Flask-based web application with separate Student and Faculty login modules.
-* Features include complaint registration, issue tracking, and status management.
+- Analyzed global energy consumption, production, emissions, GDP, and population data using MySQL.
+- Performed SQL queries, joins, aggregations, and trend analysis for data-driven insights.
+- Built analytical queries to compare energy usage patterns and economic indicators across countries.
+- Explored correlations between energy production, emissions, and population growth.
 
-🔗 Project Link
-
----
-
-## 🤖 Machine Learning Projects
-
-* Built ML models for prediction and classification tasks using Scikit-learn.
-* Applied preprocessing pipelines, feature engineering, and hyperparameter tuning techniques.
-
-🔗 Project Link
+🔗 Project Link: [https://github.com/islavathgowtham/world-wide-energy-consumption-analysis]
 
 ---
 
@@ -117,9 +111,9 @@ This GitHub profile showcases my projects, technical skills, and learning journe
 
 # 📬 Connect With Me
 
-📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
-💼 LinkedIn: Your LinkedIn Link
-🏗️ GitHub: Your GitHub Link
+📧 Email: [islavathgowtham16@gmail.com)
+💼 LinkedIn: www.linkedin.com/in/gowtham-islavath
+🏗️ GitHub: https://github.com/islavathgowtham
 
 ---
 
