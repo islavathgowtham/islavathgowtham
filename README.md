@@ -112,7 +112,9 @@ This GitHub profile showcases my projects, technical skills, and learning journe
 # 📬 Connect With Me
 
 📧 Email: [islavathgowtham16@gmail.com)
+
 💼 LinkedIn: www.linkedin.com/in/gowtham-islavath
+
 🏗️ GitHub: https://github.com/islavathgowtham
 
 ---
