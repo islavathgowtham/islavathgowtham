@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Gowtham Islavath
 
 ## 📌 About Me
-
-Hey there! I'm Gowtham, an AI & Data Science student passionate about building intelligent systems and solving real-world problems using data. I enjoy working on Machine Learning, Data Analytics, SQL, and Power BI projects while continuously exploring new technologies in AI and automation.
+Highly motivated Artificial Intelligence and Data Science graduate with strong skills in Python, SQL, Data Structures
+and Algorithms, Machine Learning, Data Analysis, Power BI, and Data Visualization, eager to contribute to innovative
+projects and continuously learn through industry opportunities.
 
 This GitHub profile showcases my projects, technical skills, and learning journey in the world of Data Science and Artificial Intelligence.
 
